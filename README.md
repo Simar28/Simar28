@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Simar!
 
 🎓 Software Engineering Master's Student  
@@ -37,3 +38,10 @@
 ---
 
 ⭐️ *Check out my pinned projects below!*
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Simar28/Simar28/blob/output/github-contribution-grid-snake.svg)
+
